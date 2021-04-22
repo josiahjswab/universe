@@ -11,6 +11,7 @@ namespace dnc100_makeYourOwnUniverse
             string galaxyNumber, solarNumber;
 
             Universe myUniverse = new Universe();
+            
             Console.WriteLine($"How many galaxies should exist in your universe?");
             galaxyNumber = Console.ReadLine();
             Console.WriteLine($"How many solar systems should exist in your galaxies?");
@@ -18,12 +19,9 @@ namespace dnc100_makeYourOwnUniverse
             for(int i = 1; i <= int.Parse(galaxyNumber); i++) 
             {
                 myUniverse.AddGalaxy($"{i} ");
-
             }
             foreach(var g in myUniverse.Galaxies)
             {
-                Console.WriteLine($"Galaxy:{g.name}");
-
                 for(int j = 1; j <= int.Parse(solarNumber); j++) 
                 {
                 g.AddSolarSystem($"{j}");
@@ -33,7 +31,6 @@ namespace dnc100_makeYourOwnUniverse
                 {
                     Random random = new Random();
                     s.AddStar($"{s}");
-                    s.GetStarList();
 
                     int numPlanets = random.Next(10,15);
 
@@ -41,7 +38,6 @@ namespace dnc100_makeYourOwnUniverse
                     {
                         s.AddPlanet($"{k}");
                     }
-                    s.GetPlanetList();
 
                     foreach(var p in s.Planets)
                     {
@@ -50,12 +46,8 @@ namespace dnc100_makeYourOwnUniverse
                         p.AddLife(billions * lifeForms);
                     }
                 }
-                // g.GetSolarSystemsList();
             }
-            // loop galaxy count
-            // create 1000 galaxy
-            // create galaxys systems each 200
-            // create system star
+            myUniverse.UniverseCensus();
             Console.ReadLine();
             return;
         }
