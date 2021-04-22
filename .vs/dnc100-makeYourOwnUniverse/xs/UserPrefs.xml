@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{8081F42C-A9FC-4AFD-9A2D-88EC7DDD0E7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lifeform.cs">
+    <Files>
+      <File FileName="../Program.cs" Line="58" Column="34" />
+      <File FileName="Galaxy.cs" />
+      <File FileName="Universe.cs" />
+      <File FileName="Solarsystem.cs" />
+      <File FileName="Planet.cs" />
+      <File FileName="Star.cs" />
+      <File FileName="../../build-your-own-universe/Program.cs" />
+      <File FileName="Lifeform.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dnc100-makeYourOwnUniverse" expanded="True">
+            <Node name="dnc100-makeYourOwnUniverse" expanded="True">
+              <Node name="universe" expanded="True">
+                <Node name="Lifeform.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.dnc100-makeYourOwnUniverse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/obj/Debug/net5.0/dnc100-makeYourOwnUniverse.csprojAssemblyReference.cache
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/obj/Debug/net5.0/dnc100-makeYourOwnUniverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/obj/Debug/net5.0/dnc100-makeYourOwnUniverse.AssemblyInfoInputs.cache
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/obj/Debug/net5.0/dnc100-makeYourOwnUniverse.AssemblyInfo.cs
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/obj/Debug/net5.0/dnc100-makeYourOwnUniverse.csproj.CoreCompileInputs.cache
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/bin/Debug/net5.0/dnc100-makeYourOwnUniverse.deps.json
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/bin/Debug/net5.0/dnc100-makeYourOwnUniverse.runtimeconfig.json
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/bin/Debug/net5.0/dnc100-makeYourOwnUniverse.runtimeconfig.dev.json
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/bin/Debug/net5.0/dnc100-makeYourOwnUniverse.dll
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/bin/Debug/net5.0/ref/dnc100-makeYourOwnUniverse.dll
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/bin/Debug/net5.0/dnc100-makeYourOwnUniverse.pdb
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/obj/Debug/net5.0/dnc100-makeYourOwnUniverse.dll
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/obj/Debug/net5.0/ref/dnc100-makeYourOwnUniverse.dll
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/obj/Debug/net5.0/dnc100-makeYourOwnUniverse.pdb
+/Users/josiahswab/Documents/projects/dnc100-makeYourOwnUniverse/obj/Debug/net5.0/dnc100-makeYourOwnUniverse.genruntimeconfig.cache
